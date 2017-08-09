@@ -6,4 +6,6 @@
 
 ![](https://github.com/andriy-gazin/letters/blob/master/letters_distribution_ribbon.png)
 
+![](https://github.com/andriy-gazin/letters/raw/master/letters_distribution_normalized_density.png)
+
 ![](https://github.com/andriy-gazin/letters/raw/master/accidental_art.png)
