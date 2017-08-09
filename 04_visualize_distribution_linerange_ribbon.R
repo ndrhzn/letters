@@ -31,11 +31,6 @@ ggplot(positions)+
        caption = 'Словник: СЛОВНИК.ua | Аналіз та візуалізація: Textura.in.ua')+
   theme_minimal()+
   theme(text = element_text(family = 'Ubuntu Condensed', face = 'plain', color = '#3A3F4A'),
-        legend.position = "top",
-        legend.title = element_text(size = 16, margin = margin(b = 10)),
-        legend.text = element_text(size = 16),
-        legend.key.height = unit(7.5, "pt"),
-        legend.key.width = unit(175, "pt"),
         axis.title = element_blank(),
         axis.text.x = element_text(size = 16),
         axis.text.y = element_blank(),
